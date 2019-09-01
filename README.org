@@ -1,0 +1,6 @@
+* Game of life
+  A game of life implemention I came up with after reading [[http://disruptive-communications.com/conwaylifejavascript/][this blogpost]]
+
+  There's a bunch of improvements I'd like to make, like adding more user controls to things like the size of the grid, the starting set of live cells, visuals, etc.
+
+  This is a more efficient implementation, but I'd also like to research more techniques for efficiently running game of life.

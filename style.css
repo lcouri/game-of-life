@@ -1,0 +1,7 @@
+#golCanvas {
+  position: absolute;
+  left: calc(50% - 125px);
+  top: calc(50% - 125px);
+  border: 1px solid black;
+  transform: scale(2);
+}
