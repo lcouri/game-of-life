@@ -3,4 +3,4 @@
 
   There's a bunch of improvements I'd like to make, like adding more user controls to things like the size of the grid, the starting set of live cells, visuals, etc.
 
-  This is a more efficient implementation, but I'd also like to research more techniques for efficiently running game of life.
+  This is a quick more efficient implementation I came up with, but I'll probably come back to this after doing some more research.
